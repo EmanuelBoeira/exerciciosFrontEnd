@@ -1,0 +1,28 @@
+#buttons{
+    width:254px;
+    margin: auto;
+    background: #e3e3e3; 
+    align-content: center;
+}
+
+#cabeçalho{
+    padding-left: 80px;
+    background: blanchedalmond;
+}
+
+header h1{
+    padding: 20px;
+}
+
+article button{
+    width: 60px;
+    padding: 10px;
+}
+
+#output{
+    height: 20px;
+    width: 245px;
+}
+
+
+
